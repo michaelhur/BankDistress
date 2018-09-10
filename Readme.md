@@ -66,4 +66,5 @@ Calais PermID is licensed under the Creative Commons with Attribution license, v
 ## Reference
 
 [1] Q. Le and T. Mikolov. Distributed representations of sentences and documents. In Proceedings of the 31st International Conference on Machine Learning (ICML-14), pages 11881196, 2014
+
 [2] S. R&ouml;nnqvist and P. Sarlin. Bank Distress in the News: Describing Events through Deep Learning. arXiv preprint arXiv:1603.05670, 2016.
