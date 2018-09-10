@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+json
+nltk
+request
+gensim
+cPickle
+h5py
+tensorflow
+sklearn
+tqdm
+colorlover

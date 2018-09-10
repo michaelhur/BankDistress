@@ -1,0 +1,8 @@
+plotly
+dash==0.26.3  # The core dash backend
+dash-html-components==0.12.0  # HTML components
+dash-core-components==0.28.0  # Supercharged components
+colorlover
+flask
+pandas
+cPickle

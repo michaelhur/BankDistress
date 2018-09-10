@@ -1,0 +1,350 @@
+(dp0
+S'4295895343'
+p1
+VAlliance & Leicester Ltd
+p2
+sS'4295884647'
+p3
+VING Groep NV
+p4
+sS'4297588026'
+p5
+VTercas Cassa di Risparmio della Provincia dI Teramo SpA
+p6
+sS'4295903783'
+p7
+VCameron International Corp
+p8
+sS'8589934337'
+p9
+VBank of Ireland
+p10
+sS'4296717582'
+p11
+VHETA ASSET RESOLUTION AG
+p12
+sS'5000004470'
+p13
+VCyprus Popular Bank PCL
+p14
+sS'5000084509'
+p15
+VBPCE SA
+p16
+sS'4295870355'
+p17
+VAlpha Bank SA
+p18
+sS'4297735137'
+p19
+VEBS DAC
+p20
+sS'4295868946'
+p21
+VIKB Deutsche Industriebank AG
+p22
+sS'4295866136'
+p23
+VMAX Bank A/S
+p24
+sS'8589934326'
+p25
+VBNP Paribas SA
+p26
+sS'4295870762'
+p27
+VT Bank SA
+p28
+sS'4295884483'
+p29
+VBanque Centrale Populaire SA
+p30
+sS'4295874912'
+p31
+VIrish Bank Resolution Corporation Ltd
+p32
+sS'5037277329'
+p33
+VBanco de Caja Espana de Inversiones Salamanca y Soria SA
+p34
+sS'4298052532'
+p35
+VFundacion Caja Mediterraneo
+p36
+sS'4295875749'
+p37
+VBanca Monte dei Paschi di Siena SpA
+p38
+sS'4296034228'
+p39
+VSparkasse Koelnbonn
+p40
+sS'4295870369'
+p41
+VNational Bank of Greece SA
+p42
+sS'5000072598'
+p43
+VBankia SA
+p44
+sS'4295870163'
+p45
+VHypo Real Estate Holding AG
+p46
+sS'5000003784'
+p47
+VPiraeus Bank SA
+p48
+sS'5035718674'
+p49
+VLiberbank SA
+p50
+sS'8589934212'
+p51
+VRoyal Bank of Scotland Group PLC
+p52
+sS'4295870566'
+p53
+VAgricultural Bank of Greece SA
+p54
+sS'4295884931'
+p55
+VAegon NV
+p56
+sS'4295895317'
+p57
+VLandmark Mortgages Ltd
+p58
+sS'4295869051'
+p59
+VHSH Nordbank AG
+p60
+sS'4295895499'
+p61
+VHBOS PLC
+p62
+sS'5001167863'
+p63
+VHeritable Bank PLC
+p64
+sS'4295885329'
+p65
+VDNB ASA
+p66
+sS'4295889322'
+p67
+VBanco de Valencia SA
+p68
+sS'4295886766'
+p69
+VBanco Comercial Portugues SA
+p70
+sS'5000061789'
+p71
+VSparekassen Lolland under konkurs A/S
+p72
+sS'4295912046'
+p73
+VCONSOL Energy Inc
+p74
+sS'8589934262'
+p75
+VKBC Groep NV
+p76
+sS'4295869477'
+p77
+VBayerische Landesbank
+p78
+sS'5000793106'
+p79
+VABN AMRO Group NV
+p80
+sS'4295865936'
+p81
+VSelskabet Af 1 September 2008 A/S
+p82
+sS'5000075035'
+p83
+VBankas Snoras AB
+p84
+sS'5000035946'
+p85
+VSRH NV
+p86
+sS'4296729968'
+p87
+VBAWAG PSK Bank fuer Arbeit und Wirtschaft und Oesterreichische Postsparkasse AG
+p88
+sS'4297177260'
+p89
+VLatvijas Krajbanka AS
+p90
+sS'4295872054'
+p91
+VFHB Jelzalogbank Nyrt
+p92
+sS'4295870015'
+p93
+VDeutsche Postbank AG
+p94
+sS'4295926398'
+p95
+VLandesbank Baden Wuerttemberg
+p96
+sS'5035414638'
+p97
+VCajasur Banco SA
+p98
+sS'4295869198'
+p99
+VBASF SE
+p100
+sS'5036183005'
+p101
+VCatalunya Banc SA
+p102
+sS'8589934173'
+p103
+VPortigon AG
+p104
+sS'5000062202'
+p105
+VIstituto per il Credito Sportivo
+p106
+sS'4296201178'
+p107
+VCarnegie Investment Bank AB
+p108
+sS'4295872108'
+p109
+VKaupthing ehf
+p110
+sS'8589934302'
+p111
+VDexia SA
+p112
+sS'5001440324'
+p113
+VBanco Mare Nostrum SA
+p114
+sS'4296555134'
+p115
+VNorddeutsche Landesbank Girozentrale
+p116
+sS'5000718498'
+p117
+VNorth Country Gold Corp
+p118
+sS'8589934296'
+p119
+VErste Group Bank AG
+p120
+sS'4295886830'
+p121
+VCaixa Geral de Depositos SA
+p122
+sS'5036161594'
+p123
+VBanco Grupo Cajatres SAU
+p124
+sS'4297304387'
+p125
+VCaisse des Depots et Consignations
+p126
+sS'4295866161'
+p127
+VAmagerbanken A/S
+p128
+sS'4295895363'
+p129
+VSantander UK PLC
+p130
+sS'4295870630'
+p131
+VTT Hellenic Postbank SA
+p132
+sS'4296555126'
+p133
+VNordea Bank Finland Abp
+p134
+sS'4295895368'
+p135
+VYorkshire Building Society
+p136
+sS'4295898517'
+p137
+VLondon Scottish Bank PLC
+p138
+sS'4295859079'
+p139
+Vimmigon portfolioabbau AG
+p140
+sS'4295869337'
+p141
+VDeutsche Pfandbriefbank AG
+p142
+sS'8589934254'
+p143
+VLloyds Banking Group PLC
+p144
+sS'4295875667'
+p145
+VBanco Popolare Sc
+p146
+sS'5000593625'
+p147
+VOP Pohjola Group Research Foundation
+p148
+sS'4296762451'
+p149
+VAIB Group (UK) PLC
+p150
+sS'4296569524'
+p151
+VScarborough Building Society
+p152
+sS'4295883208'
+p153
+VSelangor Dredging Bhd
+p154
+sS'5000004283'
+p155
+VNationwide Building Society
+p156
+sS'5000757618'
+p157
+VABN Amro Bank NV
+p158
+sS'4296963351'
+p159
+VIrish Nationwide Building Society
+p160
+sS'5000277648'
+p161
+VCommerce Bank
+p162
+sS'8589934314'
+p163
+VCommerzbank AG
+p164
+sS'4295872022'
+p165
+VFIH Mobile Ltd
+p166
+sS'5000589108'
+p167
+VPermanent TSB Group Holdings PLC
+p168
+sS'4295865896'
+p169
+VTOENDER BANK under konkurs A/S
+p170
+sS'5000779805'
+p171
+VLandsbanki Islands hf
+p172
+sS'5000737952'
+p173
+VEthias SA
+p174
+s.
