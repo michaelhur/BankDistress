@@ -50,7 +50,7 @@ def load_data():
 	permid_to_name = pickle.load(open(permid_to_name_path, 'rb'))
 		
 	df = pickle.load(open(df_path, 'rb'))
-	return df, permid_to_name, permid_to_ticker
+	return df, permid_to_name
 
 
 ## Load data
