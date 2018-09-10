@@ -41,6 +41,8 @@ pip install -r requirements.txt
 
 ### App
 
+![](https://github.com/michaelhur/BankDistress/blob/master/demo.gif)
+
 A proof-of-concept dash application is built to show how one can use such information. In order to run the app, run the following lines of bashes:
 
 1. Change directory to 
