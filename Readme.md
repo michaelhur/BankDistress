@@ -10,7 +10,7 @@ It is motivated by the [paper](https://arxiv.org/abs/1603.05670) presented by R&
 
 #### Difference
 
-This project differs from the original paper in a way that while the original paper searched and extracted the sentences that contain the name of the bank, this project uses Thomson Reuters' [Open PermID API](https://permid.org/) to extract all possible variation of mentionings of the banks.
+This project differs from the original paper in a way that while the original paper searched and extracted the sentences that contain the name of the targetted financial institutes, this project uses Thomson Reuters' [Open PermID API](https://permid.org/) to figure out all possible variation of mentionings of the said instistutes and extracts all sentences that contain any one of these variations.
 
 ## Data
 
